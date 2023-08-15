@@ -6,7 +6,7 @@
 ### Gradle
 
 ```groovy
-implementation 'vitor_test.Acme_Go:Acme-Go:1.1.0'
+implementation 'vitor_test.Acme_Go:Acme-Go:1.2.0'
 ```
 <!-- End SDK Installation -->
 
